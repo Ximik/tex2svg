@@ -32,6 +32,7 @@ const basicCompiler = new Tex2Svg({
   inline: true, // generate inline SVG code
   minifyids: false, // minify IDs, use carefully when having several inline SVGs on one page
   prefixids: false, // prefix function for IDs
+  dvisvgm: "", // additional flags for dvisvgm, e.g. "--optimize=remove-clippath --exact-bbox"
   ...opts,
 });
 
