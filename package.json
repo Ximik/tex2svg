@@ -1,6 +1,6 @@
 {
   "name": "tex2svg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compiles (La)TeX code to responsive SVGs",
   "type": "module",
   "main": "./lib/index.js",
