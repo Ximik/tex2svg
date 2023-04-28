@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/Ximik/tex2svg#readme",
   "dependencies": {
-    "svgo": "^1.3.2"
+    "svgo": "^3.0.2"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
